@@ -17,7 +17,7 @@
 
 ## :technologist: &nbsp;Hakkımda
 
-Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim[cite: 1]. Java, React Native ve Python teknolojileriyle AI destekli projeler geliştiriyorum[cite: 1]. Teknik becerilerimi stratejik planlama ve ekip liderliği gibi idari rollerle harmanlayarak yenilikçi çözümler üretmeyi hedefliyorum[cite: 1].
+Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, React Native ve Python teknolojileriyle AI destekli projeler geliştiriyorum. Teknik becerilerimi stratejik planlama ve ekip liderliği gibi idari rollerle harmanlayarak yenilikçi çözümler üretmeyi hedefliyorum.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -28,17 +28,17 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim[cite: 1
     <td width="50%" valign="top">
       <h4>:bulb: Aktif Projeler</h4>
       <ul>
-        <li><strong>TÜBİTAK 2209-B</strong> — Konuşma bozukluğu olan bireyler için AI destekli mobil uygulama (Yürütücü)[cite: 1]</li>
-        <li><strong>TÜBİTAK 2209-A</strong> — Proje Ortağı[cite: 1]</li>
-        <li><strong>Biyoinformatik</strong> — Python ile genomik veri analizi çalışmaları[cite: 1]</li>
+        <li><strong>TÜBİTAK 2209-B</strong> — Konuşma bozukluğu olan bireyler için AI destekli mobil uygulama (Yürütücü)</li>
+        <li><strong>TÜBİTAK 2209-A</strong> — Proje Ortağı</li>
+        <li><strong>Biyoinformatik</strong> — Python ile genomik veri analizi çalışmaları</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>:star2: Topluluk Liderliği</h4>
       <ul>
-        <li><strong>Girişimcilik Topluluğu</strong> — Başkan[cite: 1]</li>
-        <li><strong>BİSPARK Summit</strong> — Kulüpler Koordinatörü & Genel Yönetim[cite: 1]</li>
-        <li><strong>TEDx Biruni University</strong> — TEDx Lideri[cite: 1]</li>
+        <li><strong>Girişimcilik Topluluğu</strong> — Başkan</li>
+        <li><strong>BİSPARK Summit</strong> — Kulüpler Koordinatörü & Genel Yönetim</li>
+        <li><strong>TEDx Biruni University</strong> — TEDx Lideri</li>
       </ul>
     </td>
   </tr>
@@ -82,7 +82,7 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim[cite: 1
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 <p align="center">
-  <em>Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum.[cite: 1]</em>
+  <em>Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum.</em>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
