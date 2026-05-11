@@ -16,21 +16,21 @@
 
 ## :technologist: Hakkımda
 
-Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim[cite: 1]. Java, React Native ve Python teknolojileriyle AI destekli projeler geliştiriyorum[cite: 1]. Teknik becerilerimi stratejik planlama ve ekip liderliği gibi idari rollerle harmanlayarak yenilikçi çözümler üretmeyi hedefliyorum[cite: 1].
+Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, React Native ve Python teknolojileriyle AI destekli projeler geliştiriyorum. Teknik becerilerimi stratejik planlama ve ekip liderliği gibi idari rollerle harmanlayarak yenilikçi çözümler üretmeyi hedefliyorum.
 
 ---
 
 ## :rocket: Projeler & Liderlik
 
 ### :bulb: Aktif Projeler
-* **TÜBİTAK 2209-B** — Konuşma bozukluğu olan bireyler için AI destekli mobil uygulama (Yürütücü)[cite: 1]
-* **TÜBİTAK 2209-A** — Proje Ortağı[cite: 1]
-* **Biyoinformatik** — Python ile genomik veri analizi çalışmaları[cite: 1]
+* **TÜBİTAK 2209-B** — Konuşma bozukluğu olan bireyler için AI destekli mobil uygulama (Yürütücü)
+* **TÜBİTAK 2209-A** — Proje Ortağı
+* **Biyoinformatik** — Python ile genomik veri analizi çalışmaları
 
 ### :star2: Topluluk Liderliği
-* **Girişimcilik Topluluğu** — Başkan[cite: 1]
-* **BİSPARK Summit** — Kulüpler Koordinatörü & Genel Yönetim[cite: 1]
-* **TEDx Biruni University** — TEDx Lideri[cite: 1]
+* **Girişimcilik Topluluğu** — Başkan
+* **BİSPARK Summit** — Kulüpler Koordinatörü & Genel Yönetim
+* **TEDx Biruni University** — TEDx Lideri
 
 ---
 
@@ -62,7 +62,7 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim[cite: 1
 </p>
 
 <p align="center">
-  <em>Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum[cite: 1].</em>
+  <em>Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum.</em>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
