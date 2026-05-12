@@ -31,8 +31,8 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak; Ja
 * **Girişimcilik Topluluğu** — Başkan
 * **BİSPARK Summit** — Kulüpler Koordinatörü & Genel Yönetim
 * **TEDx Biruni University** — TEDx Lideri
-* * **EX-Biruni Event Kulübü** — Yönetim Kurulu Üyesi
-* * **EX-Erasmus Kulübü** — Başkanlık
+* **EX-Biruni Event Kulübü** — Yönetim Kurulu Üyesi
+* **EX-Erasmus Kulübü** — Başkanlık
 
 ---
 
