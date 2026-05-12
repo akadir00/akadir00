@@ -16,7 +16,7 @@
 
 ## :technologist: Hakkımda
 
-Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, React Native ve Python teknolojileriyle AI destekli projeler geliştiriyorum. Teknik becerilerimi stratejik planlama ve ekip liderliği gibi idari rollerle harmanlayarak yenilikçi çözümler üretmeyi hedefliyorum.
+Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak; Java (OOP), React Native, SQL ve Python teknolojilerinde güçlü bir teknik temele sahibim. TÜBİTAK 2209-B kapsamında konuşma bozukluğu olan bireylere yönelik AI destekli mobil uygulama projesini yürütmekte, bir diğer TÜBİTAK 2209-A projesinde ise proje ortağı olarak görev almaktayım. Teknik yetkinliklerimi; Python ile veri analizi, biyoinformatik çalışmaları ve web konfigürasyon süreçleriyle desteklemekteyim. Girişimcilik Topluluğu Başkanı ve TEDx Biruni University Lideri rollerimle; stratejik planlama, bütçe yönetimi ve ekip liderliği konularında kapsamlı deneyim kazandım. 4 farklı kulübün ortaklığında düzenlenen BİSPARK Summit’in genel yönetimini üstlenerek, çok paydaşlı organizasyonlarda operasyonel yönetim becerilerimi kanıtladım. Geçmişteki Satış ve Pazarlama Sorumlusu deneyimimle; Müşteri İlişkileri Yönetimi (CRM) ve saha operasyonları konularında yetkinlik kazanarak,mühendislik disiplinini ticari vizyonla harmanladım. Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum.
 
 ---
 
@@ -31,6 +31,8 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, 
 * **Girişimcilik Topluluğu** — Başkan
 * **BİSPARK Summit** — Kulüpler Koordinatörü & Genel Yönetim
 * **TEDx Biruni University** — TEDx Lideri
+* * **EX-Biruni Event Kulübü** — Yönetim Kurulu Üyesi
+* * **EX-Erasmus Kulübü** — Başkanlık
 
 ---
 
